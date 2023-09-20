@@ -1,4 +1,4 @@
-var todayDate = .format('dddd, MMM Do YYYY');
+var todayDate = format('dddd, MMM Do YYYY');
 $("#currentDay").html(todayDate);
 
 
